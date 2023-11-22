@@ -1,0 +1,23 @@
+{
+  "name": "node_weather_app",
+  "version": "1.0.0",
+  "description": "weather app",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/merttsvnc/node_weather_app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/merttsvnc/node_weather_app/issues"
+  },
+  "homepage": "https://github.com/merttsvnc/node_weather_app#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "hbs": "^4.0.1"
+  }
+}
