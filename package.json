@@ -18,6 +18,7 @@
   "homepage": "https://github.com/merttsvnc/node_weather_app#readme",
   "dependencies": {
     "express": "^4.18.2",
-    "hbs": "^4.0.1"
+    "hbs": "^4.0.1",
+    "request": "^2.88.0"
   }
 }
